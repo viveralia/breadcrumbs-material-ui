@@ -1,0 +1,32 @@
+{
+  "home": [
+    {
+      "name": "Home",
+      "path": "/"
+    }
+  ],
+  "profile": [
+    {
+      "name": "Home",
+      "path": "/"
+    },
+    {
+      "name": "Profile",
+      "path": "/profile"
+    }
+  ],
+  "edit": [
+    {
+      "name": "Home",
+      "path": "/"
+    },
+    {
+      "name": "Profile",
+      "path": "/profile"
+    },
+    {
+      "name": "Edit",
+      "path": "/profile/edit"
+    }
+  ]
+}
